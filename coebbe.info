@@ -16,7 +16,6 @@ dependencies[] = options
 dependencies[] = path
 dependencies[] = taxonomy
 dependencies[] = dblog
-dependencies[] = search
 dependencies[] = shortcut
 dependencies[] = toolbar
 dependencies[] = overlay
@@ -24,7 +23,27 @@ dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = rdf
 
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = node_export
+dependencies[] = cck
+dependencies[] = date
+dependencies[] = token
+dependencies[] = rules
+dependencies[] = wysiwyg
+dependencies[] = admin_menu
+dependencies[] = pathauto
+dependencies[] = jquery_update
+dependencies[] = auto_nodetitle
+dependencies[] = imce
+dependencies[] = imce_wysiwyg
+dependencies[] = login_destination
+dependencies[] = page_title
+dependencies[] = redirect
+dependencies[] = strongarm
+dependencies[] = features
+
 ; Information added by drupal.org packaging script on 2012-05-02
-version = "7.14"
+version = "7.39"
 project = "drupal"
 datestamp = "1335997555"

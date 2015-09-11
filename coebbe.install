@@ -70,7 +70,7 @@ function standard_install() {
 
   // Enable some standard blocks.
   $default_theme = variable_get('theme_default', 'bootstrap');
-  $admin_theme = 'adminimal';
+  $admin_theme = 'adminimal_theme';
   $blocks = array(
     array(
       'module' => 'system',
